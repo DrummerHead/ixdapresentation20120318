@@ -1,0 +1,90 @@
+body {
+  font-family: "Helvetica neue", helvetica, sans-serif;
+}
+h1 {
+  font-size: 3em;
+  text-align: center;
+  margin: 2.5em 0 0 0;
+  line-height: .9em;
+  font-weight: bold;
+}
+
+.biggie {
+  display: block;
+  font-size: 13em;
+  text-align: center;
+  margin-top: .3em;
+}
+
+#exchange i {
+  position: absolute;
+  font-size: 7em;
+}
+#exchange .icon-user {
+  top: 222px;
+  left: 101px;
+}
+#exchange .icon-exchange {
+  font-size: 4em;
+  top: 260px;
+  left: 363px;
+}
+#exchange .icon-laptop {
+  top: 222px;
+  left: 577px;
+}
+#testy i {
+  position: absolute;
+  font-size: 6em;
+}
+#testy .icon-facetime-video {
+  top: 280px;
+  left: 115px;
+  -webkit-transform: rotate(-22deg);
+  transform: rotate(-22deg);
+}
+#testy .icon-laptop {
+  top: 122px;
+  left: 382px;
+}
+#testy .icon-user {
+}
+#testy .lefty {
+  top: 281px;
+  left: 408px;
+}
+#testy .righty {
+  top: 312px;
+  left: 575px;
+}
+#meeting i {
+  font-size: 6em;
+  position: absolute;
+}
+#meeting .blabla {
+  top: 55px;
+  left: 224px;
+}
+#meeting .blably {
+  top: 22px;
+  left: 475px;
+}
+#meeting .nabo {
+  top: 262px;
+  left: 175px;
+}
+#meeting .bananofido {
+  top: 222px;
+  left: 373px;
+}
+#meeting .groso {
+  top: 262px;
+  left: 575px;
+}
+#meeting .icon-circle {
+  font-size: 15em;
+  top: 297px;
+  left: 249px;
+  -webkit-transform: scaleY(.5);
+  transform: scaleY(.5);
+}
