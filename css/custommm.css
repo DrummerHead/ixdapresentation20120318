@@ -105,7 +105,7 @@ h1 {
 }
 #final {
   width: 900px;
-  height: 280px;
+  height: 800px;
   font-family: 'Open Sans',Arial,sans-serif;
 }
 #final h1 {
@@ -115,13 +115,13 @@ h1 {
 }
 #final p {
   position: absolute;
-  top: 167px;
+  top: 157px;
   right: 158px;
   font-size: .9em;
 }
 #final img {
   position: absolute;
-  top: 85px;
+  top: 75px;
   right: 3px;
   -webkit-transform: scale(.3);
   transform: scale(.3);
