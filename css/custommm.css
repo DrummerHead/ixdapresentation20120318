@@ -88,3 +88,41 @@ h1 {
   -webkit-transform: scaleY(.5);
   transform: scaleY(.5);
 }
+.listy {
+}
+.listy h1 {
+  margin-top: 1em;
+  text-align: left;
+}
+.listy ul {
+  padding: 0 0 0 .7em;
+  margin: 1em 0 0 0;
+  font-size: 1.27em;
+  line-height: 1.4;
+  list-style-type: disc;
+}
+.listy li {
+}
+#final {
+  width: 900px;
+  height: 280px;
+  font-family: 'Open Sans',Arial,sans-serif;
+}
+#final h1 {
+  margin: 0;
+  font-size: 1.7em;
+  letter-spacing: -2px;
+}
+#final p {
+  position: absolute;
+  top: 167px;
+  right: 158px;
+  font-size: .9em;
+}
+#final img {
+  position: absolute;
+  top: 85px;
+  right: 3px;
+  -webkit-transform: scale(.3);
+  transform: scale(.3);
+}
